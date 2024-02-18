@@ -13,13 +13,13 @@
 - 💻 Linguagens de programação: Node.Js, Python, JavaScript.
 - 🛠️ Ferramentas: Git, Docker, Jenkins. Zabbix, Grafana.
 - 📊 Bancos de dados: MySQL.
-- 📚 Aprendendo atualmente: Java, Sistemas Operacionais.
+- 📚 Aprendendo atualmente: Java, Sistemas Operacionais, Análise de Sistemas.
 
 ## Projetos
 
 - 🚀 [Projeto 1](https://github.com/renanroccha/Renan_projetoIndividual.git): Projeto sobre o Santos FC.
-- 🌟 [Projeto 2](link-para-projeto-2): Breve descrição.
-- 🎯 [Projeto 3](link-para-projeto-3): Breve descrição.
+- 🌟 [Projeto 2](https://github.com/Grupo2-ADSC/Projeto-TechSolutions.git): Projeto sobre monitoração nos armazéns de café com sensores de umidade.
+- 🎯 [Projeto 3](link-para-projeto-3): Em produção....
 
 ## Contato
 
