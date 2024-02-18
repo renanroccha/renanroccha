@@ -12,7 +12,7 @@
 
 - 💻 Linguagens de programação: Node.Js, Python, JavaScript.
 - 🛠️ Ferramentas: Git, Docker, Jenkins. Zabbix, Grafana.
-- 📊 Bancos de dados: MySQL, MongoDB.
+- 📊 Bancos de dados: MySQL.
 - 📚 Aprendendo atualmente: Java, Sistemas Operacionais.
 
 ## Projetos
