@@ -1,4 +1,4 @@
-# Renan - Perfil
+# Olá Bem-Vindo! Sou o Renan.
 
 ## Sobre mim
 
@@ -17,7 +17,7 @@
 
 ## Projetos
 
-- 🚀 [Projeto 1](link-para-projeto-1): Breve descrição.
+- 🚀 [Projeto 1](https://github.com/renanroccha/Renan_projetoIndividual.git): Projeto sobre o Santos FC.
 - 🌟 [Projeto 2](link-para-projeto-2): Breve descrição.
 - 🎯 [Projeto 3](link-para-projeto-3): Breve descrição.
 
