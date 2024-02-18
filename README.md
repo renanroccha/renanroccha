@@ -1,35 +1,35 @@
-# Olá Bem-Vindo! Sou o Renan.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-## Sobre mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renan+Alves;I'm+19+years+old;I'm+from+Brazil;I+am+a+Systems+Analysis+and+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na SPTech.
-- 💼 Estagiário em Monitoramento de Sistemas de T.I. na V8.Tech.
-- 📍 São Paulo, SP, Brasil.
-- 🌱 Ansioso por aprender e crescer.
-- 👥 Gosto de trabalhar em equipe.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renanroccha&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Habilidades
 
-- 💻 Linguagens de programação: Node.Js, Python, JavaScript.
-- 🛠️ Ferramentas: Git, Docker, Jenkins. Zabbix, Grafana.
-- 📊 Bancos de dados: MySQL.
-- 📚 Aprendendo atualmente: Java, Sistemas Operacionais, Análise de Sistemas.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=renanroccha&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-## Projetos
 
-- 🚀 [Projeto 1](https://github.com/renanroccha/Renan_projetoIndividual.git): Projeto sobre o Santos FC.
-- 🌟 [Projeto 2](https://github.com/Grupo2-ADSC/Projeto-TechSolutions.git): Projeto sobre monitoração nos armazéns de café com sensores de umidade.
-- 🎯 [Projeto 3](link-para-projeto-3): Em produção....
 
-## Contato
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=renanroccha&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Renan Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanroccha&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-- 📧 Email: renan.rocha@sptech.school
-- 🔗 LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/renan-alves-rocha)
-- 🐦 Instagram: @renanxx_z
 
-Sinta-se à vontade para entrar em contato! Vamos conectar e colaborar. 🚀
+<div align="center"> 
+<a href="https://instagram.com/renanxx_z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.renan.rocha@sptech.school"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/renan-alves-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
 
-<!---
-renanroccha/renanroccha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{renanroccha}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
